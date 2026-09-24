@@ -7,3 +7,10 @@
   color: #222;
   text-align: center;
   overflow-x: auto;
+
+
+a:hover {color: #3C7BBF;
+  cursor: pointer;
+}
+a {color: yellow;
+}
