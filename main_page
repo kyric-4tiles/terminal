@@ -2,10 +2,15 @@
     <head>
         <title>Terminal</title>
         <link rel="stylesheet" href="style.css">
+        <grid-template-areas>
+            "nav nav nav"
+            "aside article article"
+            "footer footer footer"
+        </grid-template-areas>
     </head>
     <body>
         <pre class="logo">
-              _____                    _____                    _____                    _____                    _____                    _____                    _____                    _____  
+      _____                    _____                    _____                    _____                    _____                    _____                    _____                    _____  
      /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \ 
     /::\    \                /::\    \                /::\    \                /::\____\                /::\    \                /::\____\                /::\    \                /::\____\
     \:::\    \              /::::\    \              /::::\    \              /::::|   |                \:::\    \              /::::|   |               /::::\    \              /:::/    /
