@@ -1,0 +1,9 @@
+.logo{
+  font-family: "Courier New", Courier, monospace;
+  white-space: pre;
+  font-size: 8px;        /* small enough to fit full width */
+  line-height: 1;
+  letter-spacing: -0.05em;
+  color: #222;
+  text-align: center;
+  overflow-x: auto;
