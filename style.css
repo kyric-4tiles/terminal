@@ -3,20 +3,22 @@
   grid-row: 1 /  span 1;
   font-family: "Courier New", Courier, monospace;
   white-space: pre;
-  font-size: 8px;        /* small enough to fit full width */
+  font-size: 3px;        /* small enough to fit full width */
   line-height: 1;
   letter-spacing: -0.05em;
   color: #222;
-  text-align: center;
+  text-align: left;
   overflow-x: auto;
+  background-color: #1b033d;
 }
 .searchbar{
   grid-column: 2 /  span 4;
   grid-row: 1 /  span 1;
+  background-color: #1b033d;
 }
 
 
-a:hover {color: #9c0830;
+a:hover {color: #bd1743;
   cursor: pointer;
 }
 a {color: yellow;
@@ -24,9 +26,12 @@ a {color: yellow;
 
 .grid1 {
   display: grid;
-  grid-template-columns: (1fr 4fr);
+  grid-template-columns: (1fr 4 fr);
   grid-gap: 20px;
   padding: 20px;
+  background-color: #1b033d;
+  color: #1b033d;
+  lighting-color: #1b033d;
 }
 .body {
   background-color: #1b033d;
