@@ -1,4 +1,6 @@
 .logo{
+  grid-column: 1 /  span 1;
+  grid-row: 1 /  span 1;
   font-family: "Courier New", Courier, monospace;
   white-space: pre;
   font-size: 8px;        /* small enough to fit full width */
@@ -7,10 +9,24 @@
   color: #222;
   text-align: center;
   overflow-x: auto;
+.searchbar{
+  grid-column: 2 /  span 4;
+  grid-row: 1 /  span 1;
+}
 
 
 a:hover {color: #9c0830;
   cursor: pointer;
 }
 a {color: yellow;
+}
+
+.grid1 {
+  display: grid;
+  grid-template-columns: (1fr 4 fr);
+  grid-gap: 20px;
+  padding: 20px;
+}
+.body {
+  background-color: #1b033d;
 }
