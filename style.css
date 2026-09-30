@@ -3,7 +3,7 @@
   grid-row: 1 /  span 1;
   font-family: "Courier New", Courier, monospace;
   white-space: pre;
-  font-size: 3px;        /* small enough to fit full width */
+  font-size: 3px;    
   line-height: 1;
   letter-spacing: -0.05em;
   color: #222;
@@ -35,4 +35,7 @@ a {color: yellow;
 }
 .body {
   background-color: #1b033d;
+  color: #1b033d;
 }
+
+.
