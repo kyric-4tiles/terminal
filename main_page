@@ -1,13 +1,11 @@
 <html>
-    <head>
-        <title>Terminal</title>
-        <link rel="stylesheet" href="style.css">
-
-    </head>
-    <body>
-        <div grid class="grid1">
-        </div>
-        <pre class="logo">
+  <head>
+    <title>Terminal</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div grid class="grid1">
+      <pre class="logo">
             <a href="main_page.html" style="text-decoration: none"><br>
                                 _____                    _____                    _____                    _____                    _____                    _____                    _____  
      /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  _______
@@ -32,8 +30,7 @@
                               \/____/                  \|___|                   \/____/                  \/____/                  \/____/                  \/____/                  \/____/ 
                                                                                                                                                                                             </a>                 
         </pre>
-        <div class="searchbar">
-        #hier seachbar maken gabriel#
+      <div class="searchbar">#hier seachbar maken gabriel#</div>
     </div>
-    </body>
+  </body>
 </html>
