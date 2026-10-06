@@ -24,7 +24,7 @@ a:hover {color: #bd1743;
 a {color: yellow;
 }
 
-.grid1 {
+.container {
   display: grid;
   grid-template-columns: (1fr 4 fr);
   grid-gap: 20px;
@@ -37,5 +37,3 @@ a {color: yellow;
   background-color: #1b033d;
   color: #1b033d;
 }
-
-.

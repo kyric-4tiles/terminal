@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div grid class="grid1">
+    <div grid class="container">
       <pre class="logo">
             <a href="main_page.html" style="text-decoration: none"><br>
                                 _____                    _____                    _____                    _____                    _____                    _____                    _____  
