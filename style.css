@@ -12,21 +12,23 @@
   background-color: #1b033d;
 }
 .searchbar{
-  grid-column: 2 /  span 4;
+  grid-column: 2 /  span 3;
   grid-row: 1 /  span 1;
   background-color: #1b033d;
 }
 
 
-a:hover {color: #bd1743;
+a:hover 
+{color: #bd1743;
   cursor: pointer;
 }
-a {color: yellow;
+a 
+{color: yellow;
 }
 
 .container {
   display: grid;
-  grid-template-columns: (1fr 4 fr);
+  grid-template-columns: (1fr 1fr 1fr 1fr);
   grid-gap: 20px;
   padding: 20px;
   background-color: #1b033d;
