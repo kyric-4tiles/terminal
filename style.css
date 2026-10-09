@@ -25,7 +25,7 @@ a:hover
 a 
 {color: yellow;
 }
-side bar{
+.sidebar{
   grid-column: 1 /  span 1;
   grid-row: 2 /  span 1;
   background-color: #1b033d;
