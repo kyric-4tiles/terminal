@@ -1,6 +1,6 @@
 .logo{
-  grid-column: 1 /  span 1;
-  grid-row: 1 /  span 1;
+  grid-column: 1 / 2;
+  grid-row: 1 /  2;
   font-family: "Courier New", Courier, monospace;
   white-space: pre;
   font-size: 3px;    
@@ -12,11 +12,9 @@
   background-color: #1b033d;
 }
 .searchbar{
-  grid-column: 2 /  span 3;
-  grid-row: 1 /  span 1;
+  grid-column: 2 /  6;
+  grid-row: 1 /  2;
   background-color: #1b033d;
-}
-
 
 a:hover 
 {color: #ff2c64;
@@ -26,8 +24,8 @@ a
 {color: yellow;
 }
 .sidebar{
-  grid-column: 1 /  span 1;
-  grid-row: 2 /  span 3;
+  grid-column: 1 /  2;
+  grid-row: 2 /  4;
   background-color: #1b033d;
 }
 .container {

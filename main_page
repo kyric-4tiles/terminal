@@ -31,7 +31,9 @@
                                                                                                                                                                                             </a>                 
         </pre>
       <div class="searchbar">#hier seachbar maken gabriel#</div>
-      <div class="sidebar">#hier sidebar maken gabriel#</div>
+      <div class="sidebar">
+        <p>#hier sidebar maken gabriel#</p>
+      </div>
     </div>
   </body>
 </html>
