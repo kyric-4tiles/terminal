@@ -16,11 +16,11 @@
   grid-row: 1 /  2;
   background-color: #1b033d;
 
-a:hover 
+.a:hover 
 {color: #ff2c64;
   cursor: pointer;
 }
-a 
+.a 
 {color: yellow;
 }
 .sidebar{
