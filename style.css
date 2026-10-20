@@ -14,6 +14,7 @@
   grid-column: 2 /  6;
   grid-row: 1 /  2;
   background-color: #1b033d;
+}
 
 .a:hover 
 {color: #ff2c64;
