@@ -46,3 +46,12 @@ a{
 .p{
   color: yellow;
 }
+.content{
+  grid-column: 2 /  6;
+  grid-row: 2 /  3;
+  background-color: #1b033d;
+}
+.footer{
+  grid-column: 1 /  6;
+  grid-row: 3 /  4;
+  background-color: #1b033d;
