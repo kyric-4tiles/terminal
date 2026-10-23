@@ -41,7 +41,7 @@ body {
 
 .topnav {
   overflow: hidden;
-  background-color: #1b033d;
+  background-color: #0D0D67;
 }
 
 .topnav a {
@@ -60,7 +60,7 @@ body {
 }
 
 .topnav a.active {
-  background-color: #1b033d;
+  background-color: #2196F3;
   color: black;
 }
 
@@ -129,6 +129,7 @@ body {
       <div class="footer">
         <p>#hier footer maken gabriel#</p>
     </div>
-    </div>
   </body>
 </html>
+
+
