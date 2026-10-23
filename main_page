@@ -91,7 +91,7 @@ body {
   background: #FFEF00;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: auto) {
   .topnav .search-container {
     float: none;
   }
@@ -115,13 +115,19 @@ body {
   <div class="search-container">
     <form action="/action_page.php">
       <input type="text" placeholder="Search.." name="search" size="50">
-      <button type="submit">Sumbit</button>
+      <button type="submit">jack in</button>
     </form>
   </div>
-</div></div>
+</div>
+</div>
       <div class="sidebar">
         <p>#hier sidebar maken gabriel#</p>
       </div>
+      <div class="content">
+        <p>#hier content maken gabriel#</p>
+      </div>
+      <div class="footer">
+        <p>#hier footer maken gabriel#</p>
     </div>
   </body>
 </html>
