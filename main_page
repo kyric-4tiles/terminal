@@ -60,8 +60,8 @@ body {
 }
 
 .topnav a.active {
-  background-color: #2196F3;
-  color: black;
+  background-color: #1b033d;
+  color: white;
 }
 
 .topnav .search-container {
@@ -121,7 +121,7 @@ body {
 </div>
 </div>
       <div class="sidebar">
-        <p>#hier sidebar maken gabriel#</p>
+  
       </div>
       <div class="content">
         <p>#hier content maken gabriel#</p>
