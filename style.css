@@ -42,6 +42,12 @@ a{
   background-color: #1b033d;
   color: yellow;
 }
+sidebar a {
+  color: yellow;
+  text-decoration: none;
+  display: block;
+  padding: 10px;
+}
 
 p {
   color: yellow;
@@ -55,7 +61,7 @@ p {
   grid-column: 1 /  6;
   grid-row: 3 /  4;
   background-color: #1b033d;
-
+}
 .dropbtn {
   background-color: #4CAF50;
   border-color: red;
