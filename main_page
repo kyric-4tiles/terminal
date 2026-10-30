@@ -122,6 +122,65 @@ body {
 </div>
       <div class="sidebar">
   
+<div class="dropdown">
+  <button class="dropbtn">common</button>
+  <div class="dropdown-content">
+    <a href="#">legend</a>
+    <a href="#">unit</a>
+    <a href="#">gear</a>
+    <a href="#">program</a>
+  </div>
+</div>
+
+<div class="dropdown">
+  <button class="dropbtn">uncommon</button>
+  <div class="dropdown-content">
+    <a href="#">legend</a>
+    <a href="#">unit</a>
+    <a href="#">gear</a>
+    <a href="#">program</a>
+  </div>
+</div>
+
+<div class="dropdown">
+  <button class="dropbtn">rare</button>
+  <div class="dropdown-content">
+    <a href="#">legend</a>
+    <a href="#">unit</a>
+    <a href="#">gear</a>
+    <a href="#">program</a>
+  </div>
+</div>
+
+<div class="dropdown">
+  <button class="dropbtn">epic</button>
+  <div class="dropdown-content">
+    <a href="#">legend</a>
+    <a href="#">unit</a>
+    <a href="#">gear</a>
+    <a href="#">program</a>
+  </div>
+</div>
+
+<div class="dropdown">
+  <button class="dropbtn">secret</button>
+  <div class="dropdown-content">
+    <a href="#">legend</a>
+    <a href="#">unit</a>
+    <a href="#">gear</a>
+    <a href="#">program</a>
+  </div>
+</div>
+
+<div class="dropdown">
+  <button class="dropbtn">nova rare</button>
+  <div class="dropdown-content">
+    <a href="#">legend</a>
+    <a href="#">unit</a>
+    <a href="#">gear</a>
+    <a href="#">program</a>
+  </div>
+</div>
       </div>
       <div class="content">
         <p>#hier content maken gabriel#</p>
