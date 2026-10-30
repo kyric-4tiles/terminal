@@ -3,7 +3,7 @@
     <title>Terminal</title>
     <link rel="stylesheet" href="style.css" />
     
-
+<style>
 .dropdown {
   position: relative;
 }
@@ -35,6 +35,7 @@
 .dropdown:hover .dropbtn {
   background-color: #3e8e41;
 }   
+</style>
   </head>
   <body>
     <div grid class="container">
