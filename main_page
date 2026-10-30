@@ -218,7 +218,7 @@ body {
 </div>
       </div>
       <div class="content">
-        <p>#hier content maken gabriel#</p>
+        <img src="wallimg.png" alt="Image" style="width: 100%; height: auto;">
       </div>
       <div class="footer">
         <p>#hier footer maken gabriel#</p>
