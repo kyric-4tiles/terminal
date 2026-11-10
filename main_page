@@ -92,7 +92,9 @@
         <img src="wallimg.png" alt="Image" style="width: 100%; height: auto;">
       </div>
       <div class="footer">
-        <p>#hier footer maken gabriel#</p>
+        <p1> In case of a problem occurring or incorrect information please contact the following <br> 
+<a href= “gabrielroets42@gmail.com”> Gabriel Roets </a> 
+or <a href= “Jordi.keizer.prive@gmail.com”> Jordi Keizer </a></p1>
     </div>
   </body>
 </html>
