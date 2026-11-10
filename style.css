@@ -4,6 +4,9 @@ p{
 a.hover {
   color: #B61915;
 }
+.sidebar a:hover {
+  color: #B61915;
+}
 .logo{
   grid-column: 1 / 2;
   grid-row: 1 /  2;
@@ -31,7 +34,7 @@ a{
 }
 .sidebar{
   grid-column: 1 /  2;
-  grid-row: 2 /  4;
+  grid-row: 2 /  3;
   background-color: #1b033d;
 }
 .container {
@@ -188,6 +191,6 @@ body {
 H1{
   color: yellow;
 }
-footer{
+.footer{
   color: yellow;
 }

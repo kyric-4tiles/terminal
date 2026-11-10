@@ -39,7 +39,7 @@
   <div class="search-container">
     <form action="/action_page.php">
       <input type="text" placeholder="Search.." name="search" size="50">
-      <button type="submit">jack in</button>
+      <button type="submit">chippin in</button>
     </form>
   </div>
 </div>
@@ -47,45 +47,45 @@
 <div class="sidebar">
   <h1>common</h1>
   <ul>
-    <li><a href="Clegend">legend</a></li>
-    <li><a href="Cunit">unit</a></li>
-    <li><a href="Cgear">gear</a></li>
-    <li><a href="Cprogram">program</a></li>
+    <a href="Clegend.html"><li>legend</li></a>
+    <a href="Cunit.html"><li>unit</li></a>
+    <a href="Cgear.html"><li>gear</li></a>
+    <a href="Cprogram.html"><li>program</li></a>
   </ul>
   <h1>uncommon</h1>
   <ul>
-    <li><a href="Ulegend">legend</a></li>
-    <li><a href="Uunit">unit</a></li>
-    <li><a href="Ugear">gear</a></li>
-    <li><a href="Uprogram">program</a></li>
+    <a href="Ulegend.html"><li>legend</li></a>
+    <a href="Uunit.html"><li>unit</li></a>
+    <a href="Ugear.html"><li>gear</li></a>
+    <a href="Uprogram.html"><li>program</li></a>
   </ul>
   <h1>rare</h1>
   <ul>
-    <li><a href="Rlegend">legend</a></li>
-    <li><a href="Runit">unit</a></li>
-    <li><a href="Rgear">gear</a></li>
-    <li><a href="Rprogram">program</a></li>
+    <a href="Rlegend.html"><li>legend</li></a>
+    <a href="Runit.html"><li>unit</li></a>
+    <a href="Rgear.html"><li>gear</li></a>
+    <a href="Rprogram.html"><li>program</li></a>
   </ul>
   <h1>epic</h1>
   <ul>
-    <li><a href="Elegend">legend</a></li>
-    <li><a href="Eunit">unit</a></li>
-    <li><a href="Egear">gear</a></li>
-    <li><a href="Eprogram">program</a></li>
+    <a href="Elegend.html"><li>legend</li></a>
+    <a href="Eunit.html"><li>unit</li></a>
+    <a href="Egear.html"><li>gear</li></a>
+    <a href="Eprogram.html"><li>program</li></a>
   </ul>
   <h1>secret</h1>
   <ul>
-    <li><a href="Slegend">legend</a></li>
-    <li><a href="Sunit">unit</a></li>
-    <li><a href="Sgear">gear</a></li>
-    <li><a href="Sprogram">program</a></li>
+    <a href="Slegend.html"><li>legend</li></a>
+    <a href="Sunit.html"><li>unit</li></a>
+    <a href="Sgear.html"><li>gear</li></a>
+    <a href="Sprogram.html"><li>program</li></a>
   </ul>
   <h1>novs rare</h1>
   <ul>
-    <li><a href="NRlegend">legend</a></li>
-    <li><a href="NRunit">unit</a></li>
-    <li><a href="NRgear">gear</a></li>
-    <li><a href="NRprogram">program</a></li>
+    <a href="NRlegend.html"><li>legend</li></a>
+    <a href="NRunit.html"><li>unit</li></a>
+    <a href="NRgear.html"><li>gear</li></a>
+    <a href="NRprogram.html"><li>program</li></a>
   </ul>
 </div>
       <div class="content">
