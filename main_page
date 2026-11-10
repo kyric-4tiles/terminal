@@ -9,7 +9,7 @@
   <body>
     <div grid class="container">
       <pre class="logo">
-            <a href="main_page.html" style="text-decoration: none"><br>
+            <a href="main_page.html" style="text-decoration: none"style="width: 100%;"><br>
                                 _____                    _____                    _____                    _____                    _____                    _____                    _____  
      /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  _______
     /::\    \                /::\    \                /::\    \                /::\____\                /::\    \                /::\____\                /::\    \                /::\____\
@@ -44,68 +44,50 @@
   </div>
 </div>
 </div>
-      <div class="sidebar">
-  
-<div class="dropdown">
-  <span class="dropbtn">common</span>
-  <div class="dropdown-content">
-    <a href="#">legend</a>
-    <a href="#">unit</a>
-    <a href="#">gear</a>
-    <a href="#">program</a>
-  </div>
+<div class="sidebar">
+  <h1>common</h1>
+  <ul>
+    <li><a href="#">legend</a></li>
+    <li><a href="#">unit</a></li>
+    <li><a href="#">gear</a></li>
+    <li><a href="#">program</a></li>
+  </ul>
+  <h1>uncommon</h1>
+  <ul>
+    <li><a href="#">legend</a></li>
+    <li><a href="#">unit</a></li>
+    <li><a href="#">gear</a></li>
+    <li><a href="#">program</a></li>
+  </ul>
+  <h1>rare</h1>
+  <ul>
+    <li><a href="#">legend</a></li>
+    <li><a href="#">unit</a></li>
+    <li><a href="#">gear</a></li>
+    <li><a href="#">program</a></li>
+  </ul>
+  <h1>epic</h1>
+  <ul>
+    <li><a href="#">legend</a></li>
+    <li><a href="#">unit</a></li>
+    <li><a href="#">gear</a></li>
+    <li><a href="#">program</a></li>
+  </ul>
+  <h1>secret</h1>
+  <ul>
+    <li><a href="#">legend</a></li>
+    <li><a href="#">unit</a></li>
+    <li><a href="#">gear</a></li>
+    <li><a href="#">program</a></li>
+  </ul>
+  <h1>novs rare</h1>
+  <ul>
+    <li><a href="#">legend</a></li>
+    <li><a href="#">unit</a></li>
+    <li><a href="#">gear</a></li>
+    <li><a href="#">program</a></li>
+  </ul>
 </div>
-
-<div class="dropdown">
-  <span class="dropbtn">uncommon</span>
-  <div class="dropdown-content">
-    <a href="#">legend</a>
-    <a href="#">unit</a>
-    <a href="#">gear</a>
-    <a href="#">program</a>
-  </div>
-</div>
-
-<div class="dropdown">
-  <span class="dropbtn">rare</span>
-  <div class="dropdown-content">
-    <a href="#">legend</a>
-    <a href="#">unit</a>
-    <a href="#">gear</a>
-    <a href="#">program</a>
-  </div>
-</div>
-
-<div class="dropdown">
-  <span class="dropbtn">epic</span>
-  <div class="dropdown-content">
-    <a href="#">legend</a>
-    <a href="#">unit</a>
-    <a href="#">gear</a>
-    <a href="#">program</a>
-  </div>
-</div>
-
-<div class="dropdown">
-  <span class="dropbtn">secret</span>
-  <div class="dropdown-content">
-    <a href="#">legend</a>
-    <a href="#">unit</a>
-    <a href="#">gear</a>
-    <a href="#">program</a>
-  </div>
-</div>
-
-<div class="dropdown">
-  <span class="dropbtn">nova rare</span>
-  <div class="dropdown-content">
-    <a href="#">legend</a>
-    <a href="#">unit</a>
-    <a href="#">gear</a>
-    <a href="#">program</a>
-  </div>
-</div>
-      </div>
       <div class="content">
         <img src="wallimg.png" alt="Image" style="width: 100%; height: auto;">
       </div>
@@ -114,5 +96,3 @@
     </div>
   </body>
 </html>
-
-
