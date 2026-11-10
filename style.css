@@ -1,3 +1,9 @@
+p{
+  color: yellow;
+}
+a.hover {
+  color: #B61915;
+}
 .logo{
   grid-column: 1 / 2;
   grid-row: 1 /  2;
@@ -182,6 +188,6 @@ body {
 H1{
   color: yellow;
 }
-p{
+footer{
   color: yellow;
 }
