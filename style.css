@@ -65,6 +65,7 @@ p {
   grid-column: 2 /  6;
   grid-row: 2 /  3;
   background-color: #1b033d;
+  color: yellow;
 }
 .footer{
   grid-column: 1 /  6;

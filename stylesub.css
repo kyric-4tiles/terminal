@@ -61,8 +61,23 @@ a{
 p {
   color: yellow;
 }
-.content{
-  grid-column: 2 /  6;
+.bar1{
+  grid-column: 2 /  3;
+  grid-row: 2 /  3;
+  background-color: #1b033d;
+}
+.bar2{
+  grid-column: 3 /  4;
+  grid-row: 2 /  3;
+  background-color: #1b033d;
+}
+.bar3{
+  grid-column: 4 /  5;
+  grid-row: 2 /  3;
+  background-color: #1b033d;
+}
+.bar4{
+  grid-column: 5 /  6;
   grid-row: 2 /  3;
   background-color: #1b033d;
 }
