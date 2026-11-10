@@ -47,45 +47,45 @@
 <div class="sidebar">
   <h1>common</h1>
   <ul>
-    <li><a href="#">legend</a></li>
-    <li><a href="#">unit</a></li>
-    <li><a href="#">gear</a></li>
-    <li><a href="#">program</a></li>
+    <li><a href="Clegend">legend</a></li>
+    <li><a href="Cunit">unit</a></li>
+    <li><a href="Cgear">gear</a></li>
+    <li><a href="Cprogram">program</a></li>
   </ul>
   <h1>uncommon</h1>
   <ul>
-    <li><a href="#">legend</a></li>
-    <li><a href="#">unit</a></li>
-    <li><a href="#">gear</a></li>
-    <li><a href="#">program</a></li>
+    <li><a href="Ulegend">legend</a></li>
+    <li><a href="Uunit">unit</a></li>
+    <li><a href="Ugear">gear</a></li>
+    <li><a href="Uprogram">program</a></li>
   </ul>
   <h1>rare</h1>
   <ul>
-    <li><a href="#">legend</a></li>
-    <li><a href="#">unit</a></li>
-    <li><a href="#">gear</a></li>
-    <li><a href="#">program</a></li>
+    <li><a href="Rlegend">legend</a></li>
+    <li><a href="Runit">unit</a></li>
+    <li><a href="Rgear">gear</a></li>
+    <li><a href="Rprogram">program</a></li>
   </ul>
   <h1>epic</h1>
   <ul>
-    <li><a href="#">legend</a></li>
-    <li><a href="#">unit</a></li>
-    <li><a href="#">gear</a></li>
-    <li><a href="#">program</a></li>
+    <li><a href="Elegend">legend</a></li>
+    <li><a href="Eunit">unit</a></li>
+    <li><a href="Egear">gear</a></li>
+    <li><a href="Eprogram">program</a></li>
   </ul>
   <h1>secret</h1>
   <ul>
-    <li><a href="#">legend</a></li>
-    <li><a href="#">unit</a></li>
-    <li><a href="#">gear</a></li>
-    <li><a href="#">program</a></li>
+    <li><a href="Slegend">legend</a></li>
+    <li><a href="Sunit">unit</a></li>
+    <li><a href="Sgear">gear</a></li>
+    <li><a href="Sprogram">program</a></li>
   </ul>
   <h1>novs rare</h1>
   <ul>
-    <li><a href="#">legend</a></li>
-    <li><a href="#">unit</a></li>
-    <li><a href="#">gear</a></li>
-    <li><a href="#">program</a></li>
+    <li><a href="NRlegend">legend</a></li>
+    <li><a href="NRunit">unit</a></li>
+    <li><a href="NRgear">gear</a></li>
+    <li><a href="NRprogram">program</a></li>
   </ul>
 </div>
       <div class="content">
