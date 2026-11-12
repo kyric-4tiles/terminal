@@ -88,10 +88,43 @@
     <a href="NRprogram.html"><li>program</li></a>
   </ul>
 </div>
-      <div class="bar1"></div>
-      <div class="bar2"></div>
-      <div class="bar3"></div>
-      <div class="bar4"></div>
+      <div class="bar1">
+        <a href=”wild-in-the-streets.html” ><img src="wild in the streets.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href=”safety-override.html” ><img src="safety override.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href=”living-with-the-aftermath.html” ><img src="living with the aftermath.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href=”carnage-at-the-colosseum.html” ><img src="carnage at the colosseum.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+
+
+
+      </div>
+      <div class="bar2">
+        <a href=”unlikely-bond.html” ><img src="unlikely bond.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href=”reboot-optics.html” ><img src="reboot optics.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href=”floor-it” ><img src="floor it.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href=”all is lost” ><img src="all is lost.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+
+
+
+
+      </div>
+      <div class="bar3">
+        <a href=”trust-no-one.html” ><img src="trust no one.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href=”peace-offering” ><img src="peace offering.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href=”detonate” ><img src="detonate.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="afterparty-at-lizzy's.html" ><img src="afterparty at lizzy's.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+
+
+
+
+      </div>
+      <div class="bar4">
+        <a href=”three-mouthes-one-disire” ><img src="three mouths one desire.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href=”over-the-edge.html” ><img src="over the edge.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href=”chroom-reverie” ><img src="chroom reverie.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+
+
+
+      </div>
       <div class="footer">
         <p1> In case of a problem occurring or incorrect information please contact the following <br> 
 <a href= “gabrielroets42@gmail.com”> Gabriel Roets </a> 
