@@ -1,7 +1,7 @@
 <html>
   <head>
     <title>Terminal</title>
-    <link rel="stylesheet" href="stylesub.css" />
+    <link rel="stylesheet" href="../../stylesub.css" />
     
 <style>
 </style>
@@ -9,7 +9,7 @@
   <body>
     <div grid class="container">
       <pre class="logo">
-            <a href="main_page.html" style="text-decoration: none"style="width: 100%;"><br>
+            <a href="../../main_page" style="text-decoration: none"style="width: 100%;"><br>
                                 _____                    _____                    _____                    _____                    _____                    _____                    _____  
      /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  _______
     /::\    \                /::\    \                /::\    \                /::\____\                /::\    \                /::\____\                /::\    \                /::\____\
@@ -47,58 +47,58 @@
 <div class="sidebar">
   <h1>common</h1>
   <ul>
-    <a href="Clegend.html"><li>legend</li></a>
-    <a href="Cunit.html"><li>unit</li></a>
-    <a href="Cgear.html"><li>gear</li></a>
-    <a href="Cprogram.html"><li>program</li></a>
+    <a href="Clegend"><li>legend</li></a>
+    <a href="Cunit"><li>unit</li></a>
+    <a href="Cgear"><li>gear</li></a>
+    <a href="Cprogram"><li>program</li></a>
   </ul>
   <h1>uncommon</h1>
   <ul>
-    <a href="Ulegend.html"><li>legend</li></a>
-    <a href="Uunit.html"><li>unit</li></a>
-    <a href="Ugear.html"><li>gear</li></a>
-    <a href="Uprogram.html"><li>program</li></a>
+    <a href="../uncommon/Ulegend"><li>legend</li></a>
+    <a href="../uncommon/Uunit"><li>unit</li></a>
+    <a href="../uncommon/Ugear"><li>gear</li></a>
+    <a href="../uncommon/Uprogram"><li>program</li></a>
   </ul>
   <h1>rare</h1>
   <ul>
-    <a href="Rlegend.html"><li>legend</li></a>
-    <a href="Runit.html"><li>unit</li></a>
-    <a href="Rgear.html"><li>gear</li></a>
-    <a href="Rprogram.html"><li>program</li></a>
+    <a href="../rare/Rlegend"><li>legend</li></a>
+    <a href="../rare/Runit"><li>unit</li></a>
+    <a href="../rare/Rgear"><li>gear</li></a>
+    <a href="../rare/Rprogram"><li>program</li></a>
   </ul>
   <h1>epic</h1>
   <ul>
-    <a href="Elegend.html"><li>legend</li></a>
-    <a href="Eunit.html"><li>unit</li></a>
-    <a href="Egear.html"><li>gear</li></a>
-    <a href="Eprogram.html"><li>program</li></a>
+    <a href="../epic/Elegend"><li>legend</li></a>
+    <a href="../epic/Eunit"><li>unit</li></a>
+    <a href="../epic/Egear"><li>gear</li></a>
+    <a href="../epic/Eprogram"><li>program</li></a>
   </ul>
   <h1>secret</h1>
   <ul>
-    <a href="Slegend.html"><li>legend</li></a>
-    <a href="Sunit.html"><li>unit</li></a>
-    <a href="Sgear.html"><li>gear</li></a>
-    <a href="Sprogram.html"><li>program</li></a>
+    <a href="../secret/Slegend"><li>legend</li></a>
+    <a href="../secret/Sunit"><li>unit</li></a>
+    <a href="../secret/Sgear"><li>gear</li></a>
+    <a href="../secret/Sprogram"><li>program</li></a>
   </ul>
   <h1>nova rare</h1>
   <ul>
-    <a href="NRlegend.html"><li>legend</li></a>
-    <a href="NRunit.html"><li>unit</li></a>
-    <a href="NRgear.html"><li>gear</li></a>
-    <a href="NRprogram.html"><li>program</li></a>
+    <a href="../nova rare/NRlegend"><li>legend</li></a>
+    <a href="../nova rare/NRunit"><li>unit</li></a>
+    <a href="../nova rare/NRgear"><li>gear</li></a>
+    <a href="../nova rare/NRprogram"><li>program</li></a>
   </ul>
 </div>
       <div class="bar1">
-<a href=”westbrook-runner.html” ><img src="westbrook runner.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”trauma-team-oporatives.html” ><img src="trauma team oporatives.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”screwn---lovelorn.html” ><img src="screwn --- lovelorn.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”riding-nomad.html” ><img src="riding nomad.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”of-duty-malfini.html” ><img src="of duty malfini.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”modded-kusanagi.html” ><img src="modded kusanagi.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”mealstrom-zealo.html” ><img src="mealstrom zealo.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”hacked-corpo.html” ><img src="hacked corpo.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”delamain-cab.html” ><img src="delamain cab.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”animal-wrecker.html” ><img src="animal wrecker.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="westbrook-netrunner.html" ><img src="../../fotos/Westbrook Netrunner.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="trauma-team-operatives.html" ><img src="../../fotos/Trauma Team Operatives.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="screw---lovelorn-fool.html" ><img src="../../fotos/Screw - Lovelorn Fool.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="riding-nomad.html" ><img src="../../fotos/Riding Nomad.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="offduty-malfini.html" ><img src="../../fotos/Offduty Malfini.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="modded-kusanagi.html" ><img src="../../fotos/Modded Kusanagi.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="maelstorm-zealots.html" ><img src="../../fotos/Maelstrom Zealots.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="hacked-corpo.html" ><img src="../../fotos/Hacked Corpo.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="delamain-cab.html" ><img src="../../fotos/Delamain Cab.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="animals-wrecker.html" ><img src="../../fotos/Animals Wrecker.png" alt="card name" style="width: 100%; height: auto;"></a><br>
 
 
 
@@ -109,15 +109,15 @@
 
       </div>
       <div class="bar2">
-<a href=”valentino-streetracer.html” ><img src="valentino streetracer.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”swordsise-huscle.html” ><img src="swordsise huscle.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-        <a href=”ruthless-lowlife.html” ><img src="ruthless lowlife.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-        <a href=”psycho-scuad.html” ><img src="psycho scuad.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”octant.html” ><img src="octant.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”maxtac-suppresion-team.html” ><img src="maxtac suppresion team.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”mealstrom-goons.html” ><img src="mealstrom goons.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”gilded-maton.html” ><img src="gilded maton.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”corpo-security.html” ><img src="corpo security.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="valentino-street-racer.html" ><img src="../../fotos/Valentino Street Racer.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="swordwise-huscle.html" ><img src="../../fotos/Swordwise Huscle.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="ruthless-lowlife.html" ><img src="../../fotos/Ruthless Lowlife.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="psycho-squad.html" ><img src="../../fotos/Psycho Squad.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="octant.html" ><img src="../../fotos/Octant.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="maxtac-suppression-team.html" ><img src="../../fotos/Maxtac Suppression Team.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="maelstorm-goons.html" ><img src="../../fotos/Maelstrom Goons.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="gilded-matón.html" ><img src="../../fotos/Gilded Matón.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="corpo-security.html" ><img src="../../fotos/Corpo Security.png" alt="card name" style="width: 100%; height: auto;"></a><br>
 
 
 
@@ -128,15 +128,15 @@
 
       </div>
       <div class="bar3">
-<a href=”valentino-guerrera.html” ><img src="valentino guerrera.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”sketchy-ripper.html” ><img src="sketchy ripper.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-        <a href=”rockn-rockerboy.html” ><img src="rockn rockerboy.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-        <a href=”pacifica-netrunner.html” ><img src="pacifica netrunner.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-        <a href=”mox-inciters.html” ><img src="mox inciters.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-        <a href=”maxtac-squad.html” ><img src="maxtac squad.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-        <a href=”japantown-jonin.html” ><img src="japantown jonin.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-        <a href=”field-operator.html” ><img src="field operator.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-        <a href=”chroom-fang.html” ><img src="chroom fang.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="valentino-guerrera.html" ><img src="../../fotos/Valentino Guerrera.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="sketchy-ripper.html" ><img src="../../fotos/Sketchy Ripper.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="rockn’-rockerboy.html" ><img src="../../fotos/Rockn’ Rockerboy.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="pacifica-netrunner.html" ><img src="../../fotos/Pacifica Netrunner.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="mox-inciters.html" ><img src="../../fotos/Mox Inciters.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="maxtac-squadron.html" ><img src="../../fotos/Maxtac Squadron.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="japantown-jonin.html" ><img src="../../fotos/Japantown Jonin.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="field-operator.html" ><img src="../../fotos/Field Operator.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="chrome-fang.html" ><img src="../../fotos/Chrome Fang.png" alt="card name" style="width: 100%; height: auto;"></a><br>
 
 
 
@@ -148,15 +148,15 @@
 
       </div>
       <div class="bar4">
-<a href=”tygers-whisper.html” ><img src="tygers whisper.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”secondhand-bombus.html” ><img src="secondhand bombus.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”rita-wheeler---no-stupid-questions.html” ><img src="rita wheeler --- no stupid questions.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”modded-muramasa.html” ><img src="modded muramasa.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”maxtac-av.html” ><img src="maxtac av.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”jacked-in-voodoo-boy.html” ><img src="jacked in voodoo boy.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”emergency-atlas.html” ><img src="emergency atlas.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”augmented-negotors.html” ><img src="augmented negotors.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-<a href=”6th-street-recruits.html” ><img src="6th street recruits.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="tyger’s-whisper.html" ><img src="../../fotos/Tyger’s Whisper.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="secondhand-bombus.html" ><img src="../../fotos/Secondhand Bombus.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="rita-wheeler---no-stupid-questions.html" ><img src="../../fotos/Rita Wheeler - No stupid questions.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="modded-muramasa.html" ><img src="../../fotos/Modded Muramasa.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="maxtac-av.html" ><img src="../../fotos/Maxtac Av.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="jacked-in-voodoo-boy.html" ><img src="../../fotos/Jacked-In Voodoo Boy.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="emergency-atlus.html" ><img src="../../fotos/Emergency Altus.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="augmented-negotors.html" ><img src="../../fotos/Augmented Negotiators.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="6th-street-recruits.html" ><img src="../../fotos/6th Street Recruits.png" alt="card name" style="width: 100%; height: auto;"></a><br>
 
 
 
@@ -167,8 +167,8 @@
       </div>
       <div class="footer">
         <p1> In case of a problem occurring or incorrect information please contact the following <br> 
-<a href= “gabrielroets42@gmail.com”> Gabriel Roets </a> 
-or <a href= “Jordi.keizer.prive@gmail.com”> Jordi Keizer </a><br>
+<a href= "gabrielroets42@gmail.com"> Gabriel Roets </a> 
+or <a href= "Jordi.keizer.prive@gmail.com"> Jordi Keizer </a><br>
 <a Href=SoT.html> service of terms</a></p1>
       </div>
     </div>

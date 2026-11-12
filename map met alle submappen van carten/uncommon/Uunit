@@ -1,7 +1,7 @@
 <html>
   <head>
     <title>Terminal</title>
-    <link rel="stylesheet" href="stylesub.css" />
+    <link rel="stylesheet" href="../../stylesub.css" />
     
 <style>
 </style>
@@ -9,7 +9,7 @@
   <body>
     <div grid class="container">
       <pre class="logo">
-            <a href="main_page.html" style="text-decoration: none"style="width: 100%;"><br>
+            <a href="../../main_page" style="text-decoration: none"style="width: 100%;"><br>
                                 _____                    _____                    _____                    _____                    _____                    _____                    _____  
      /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  _______
     /::\    \                /::\    \                /::\    \                /::\____\                /::\    \                /::\____\                /::\    \                /::\____\
@@ -47,55 +47,85 @@
 <div class="sidebar">
   <h1>common</h1>
   <ul>
-    <a href="Clegend.html"><li>legend</li></a>
-    <a href="Cunit.html"><li>unit</li></a>
-    <a href="Cgear.html"><li>gear</li></a>
-    <a href="Cprogram.html"><li>program</li></a>
+    <a href="../common/Clegend"><li>legend</li></a>
+    <a href="../common/Cunit"><li>unit</li></a>
+    <a href="../common/Cgear"><li>gear</li></a>
+    <a href="../common/Cprogram"><li>program</li></a>
   </ul>
   <h1>uncommon</h1>
   <ul>
-    <a href="Ulegend.html"><li>legend</li></a>
-    <a href="Uunit.html"><li>unit</li></a>
-    <a href="Ugear.html"><li>gear</li></a>
-    <a href="Uprogram.html"><li>program</li></a>
+    <a href="Ulegend"><li>legend</li></a>
+    <a href="Uunit"><li>unit</li></a>
+    <a href="Ugear"><li>gear</li></a>
+    <a href="Uprogram"><li>program</li></a>
   </ul>
   <h1>rare</h1>
   <ul>
-    <a href="Rlegend.html"><li>legend</li></a>
-    <a href="Runit.html"><li>unit</li></a>
-    <a href="Rgear.html"><li>gear</li></a>
-    <a href="Rprogram.html"><li>program</li></a>
+    <a href="../rare/Rlegend"><li>legend</li></a>
+    <a href="../rare/Runit"><li>unit</li></a>
+    <a href="../rare/Rgear"><li>gear</li></a>
+    <a href="../rare/Rprogram"><li>program</li></a>
   </ul>
   <h1>epic</h1>
   <ul>
-    <a href="Elegend.html"><li>legend</li></a>
-    <a href="Eunit.html"><li>unit</li></a>
-    <a href="Egear.html"><li>gear</li></a>
-    <a href="Eprogram.html"><li>program</li></a>
+    <a href="../epic/Elegend"><li>legend</li></a>
+    <a href="../epic/Eunit"><li>unit</li></a>
+    <a href="../epic/Egear"><li>gear</li></a>
+    <a href="../epic/Eprogram"><li>program</li></a>
   </ul>
   <h1>secret</h1>
   <ul>
-    <a href="Slegend.html"><li>legend</li></a>
-    <a href="Sunit.html"><li>unit</li></a>
-    <a href="Sgear.html"><li>gear</li></a>
-    <a href="Sprogram.html"><li>program</li></a>
+    <a href="../secret/Slegend"><li>legend</li></a>
+    <a href="../secret/Sunit"><li>unit</li></a>
+    <a href="../secret/Sgear"><li>gear</li></a>
+    <a href="../secret/Sprogram"><li>program</li></a>
   </ul>
   <h1>nova rare</h1>
   <ul>
-    <a href="NRlegend.html"><li>legend</li></a>
-    <a href="NRunit.html"><li>unit</li></a>
-    <a href="NRgear.html"><li>gear</li></a>
-    <a href="NRprogram.html"><li>program</li></a>
+    <a href="../nova rare/NRlegend"><li>legend</li></a>
+    <a href="../nova rare/NRunit"><li>unit</li></a>
+    <a href="../nova rare/NRgear"><li>gear</li></a>
+    <a href="../nova rare/NRprogram"><li>program</li></a>
   </ul>
 </div>
-      <div class="bar1"></div>
-      <div class="bar2"></div>
-      <div class="bar3"></div>
-      <div class="bar4"></div>
+      <div class="bar1">
+<a href="../../uncommon/wraith-marauders.html" ><img src="../../fotos/Wraith Marauders.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="pepe-najarro-working-doubles.html" ><img src="../../fotos/Pepe Najarro - Working doubles.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="../../uncommon/maxtac-heavy.html" ><img src="../../fotos/Maxtac Heavy.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="heywood-ripperdoc.html" ><img src="../../fotos/Heywood Ripperdoc.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="../../uncommon/delamain-rideshard-AI.html" ><img src="../../fotos/Delamain - Rideshare ai.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+
+
+
+
+      </div>
+      <div class="bar2">
+<a href="../../uncommon/viktor-vektor---you-might-feel-a-little-pinch.html" ><img src="../../fotos/Viktor Vektor - You might fgeel a little pinch.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="nadia-fighting-through-grief.html" ><img src="../../fotos/Nadia - Fighting through grief.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="../../uncommon/maman-brigitte.html" ><img src="../../fotos/Maman Brigitte - Spirit of death.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="../../uncommon/goro-takemura---losing-his-way.html" ><img src="../../fotos/Goro Takemura - Losing his way.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+
+
+      </div>
+      <div class="bar3">
+<a href="t-bug---amateur-philosopher.html" ><img src="../../fotos/T-Bug - Amateur philosopher.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="../../uncommon/MTOD12-flathead.html" ><img src="../../fotos/MTOD12 Flathead.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="../../uncommon/la-llorona---ghost-of-the-past.html" ><img src="../../fotos/La Llorona - Ghost of the past.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="../../uncommon/evelyn-parker---scheming-siren.html" ><img src="../../fotos/Evelyn Parker - Scheming Siren.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+
+
+      </div>
+      <div class="bar4">
+<a href="../../uncommon/royce---don’t-call-me-simon.html" ><img src="../../fotos/Royce - Don’t call me Simon.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="../../uncommon/minotaur.html" ><img src="../../fotos/Minotaur.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="../../uncommon/kerry-eurodyne---the-last-rockerboy.html" ><img src="../../fotos/Kerry Eurodyne - The last rockerboy.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href="../../uncommon/dexter-deshawn---one-last-chance.html" ><img src="../../fotos/Dexter Deshawn - One last chance.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+
+      </div>
       <div class="footer">
         <p1> In case of a problem occurring or incorrect information please contact the following <br> 
-<a href= “gabrielroets42@gmail.com”> Gabriel Roets </a> 
-or <a href= “Jordi.keizer.prive@gmail.com”> Jordi Keizer </a><br>
+<a href= "gabrielroets42@gmail.com"> Gabriel Roets </a> 
+or <a href= "Jordi.keizer.prive@gmail.com"> Jordi Keizer </a><br>
 <a Href=SoT.html> service of terms</a></p1>
       </div>
     </div>

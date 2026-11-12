@@ -1,7 +1,7 @@
 <html>
   <head>
     <title>Terminal</title>
-    <link rel="stylesheet" href="stylesub.css" />
+    <link rel="stylesheet" href="../../stylesub.css" />
     
 <style>
 </style>
@@ -9,7 +9,7 @@
   <body>
     <div grid class="container">
       <pre class="logo">
-            <a href="main_page.html" style="text-decoration: none"style="width: 100%;"><br>
+            <a href="../../main_page" style="text-decoration: none"style="width: 100%;"><br>
                                 _____                    _____                    _____                    _____                    _____                    _____                    _____  
      /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  _______
     /::\    \                /::\    \                /::\    \                /::\____\                /::\    \                /::\____\                /::\    \                /::\____\
@@ -47,88 +47,88 @@
 <div class="sidebar">
   <h1>common</h1>
   <ul>
-    <a href="Clegend.html"><li>legend</li></a>
-    <a href="Cunit.html"><li>unit</li></a>
-    <a href="Cgear.html"><li>gear</li></a>
-    <a href="Cprogram.html"><li>program</li></a>
+    <a href="Clegend"><li>legend</li></a>
+    <a href="Cunit"><li>unit</li></a>
+    <a href="Cgear"><li>gear</li></a>
+    <a href="Cprogram"><li>program</li></a>
   </ul>
   <h1>uncommon</h1>
   <ul>
-    <a href="Ulegend.html"><li>legend</li></a>
-    <a href="Uunit.html"><li>unit</li></a>
-    <a href="Ugear.html"><li>gear</li></a>
-    <a href="Uprogram.html"><li>program</li></a>
+    <a href="../uncommon/Ulegend"><li>legend</li></a>
+    <a href="../uncommon/Uunit"><li>unit</li></a>
+    <a href="../uncommon/Ugear"><li>gear</li></a>
+    <a href="../uncommon/Uprogram"><li>program</li></a>
   </ul>
   <h1>rare</h1>
   <ul>
-    <a href="Rlegend.html"><li>legend</li></a>
-    <a href="Runit.html"><li>unit</li></a>
-    <a href="Rgear.html"><li>gear</li></a>
-    <a href="Rprogram.html"><li>program</li></a>
+    <a href="../rare/Rlegend"><li>legend</li></a>
+    <a href="../rare/Runit"><li>unit</li></a>
+    <a href="../rare/Rgear"><li>gear</li></a>
+    <a href="../rare/Rprogram"><li>program</li></a>
   </ul>
   <h1>epic</h1>
   <ul>
-    <a href="Elegend.html"><li>legend</li></a>
-    <a href="Eunit.html"><li>unit</li></a>
-    <a href="Egear.html"><li>gear</li></a>
-    <a href="Eprogram.html"><li>program</li></a>
+    <a href="../epic/Elegend"><li>legend</li></a>
+    <a href="../epic/Eunit"><li>unit</li></a>
+    <a href="../epic/Egear"><li>gear</li></a>
+    <a href="../epic/Eprogram"><li>program</li></a>
   </ul>
   <h1>secret</h1>
   <ul>
-    <a href="Slegend.html"><li>legend</li></a>
-    <a href="Sunit.html"><li>unit</li></a>
-    <a href="Sgear.html"><li>gear</li></a>
-    <a href="Sprogram.html"><li>program</li></a>
+    <a href="../secret/Slegend"><li>legend</li></a>
+    <a href="../secret/Sunit"><li>unit</li></a>
+    <a href="../secret/Sgear"><li>gear</li></a>
+    <a href="../secret/Sprogram"><li>program</li></a>
   </ul>
   <h1>nova rare</h1>
   <ul>
-    <a href="NRlegend.html"><li>legend</li></a>
-    <a href="NRunit.html"><li>unit</li></a>
-    <a href="NRgear.html"><li>gear</li></a>
-    <a href="NRprogram.html"><li>program</li></a>
+    <a href="../nova rare/NRlegend"><li>legend</li></a>
+    <a href="../nova rare/NRunit"><li>unit</li></a>
+    <a href="../nova rare/NRgear"><li>gear</li></a>
+    <a href="../nova rare/NRprogram"><li>program</li></a>
   </ul>
 </div>
       <div class="bar1">
-        <a href=”wild-in-the-streets.html” ><img src="wild in the streets.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-        <a href=”safety-override.html” ><img src="safety override.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-        <a href=”living-with-the-aftermath.html” ><img src="living with the aftermath.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-        <a href=”carnage-at-the-colosseum.html” ><img src="carnage at the colosseum.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="wild-in-the-streets.html" ><img src="../../fotos/Wild In The Streets.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="safety-override.html" ><img src="../../fotos/Safety Override.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="living-with-the-aftermath.html" ><img src="../../fotos/Live With The Aftermath.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="carnage-at-the-colosseum.html" ><img src="../../fotos/Carnage At The Colosseum.png" alt="card name" style="width: 100%; height: auto;"></a><br>
 
 
 
       </div>
       <div class="bar2">
-        <a href=”unlikely-bond.html” ><img src="unlikely bond.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-        <a href=”reboot-optics.html” ><img src="reboot optics.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-        <a href=”floor-it” ><img src="floor it.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-        <a href=”all is lost” ><img src="all is lost.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="unlikely-bond.html" ><img src="../../fotos/Unlikeluy Bond.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="reboot-optics.html" ><img src="../../fotos/Reboot Optics.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="floor-it.html" ><img src="../../fotos/Floor it.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="all-is-lost.html" ><img src="../../fotos/All Is Lost.png" alt="card name" style="width: 100%; height: auto;"></a><br>
 
 
 
 
       </div>
       <div class="bar3">
-        <a href=”trust-no-one.html” ><img src="trust no one.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-        <a href=”peace-offering” ><img src="peace offering.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-        <a href=”detonate” ><img src="detonate.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-        <a href="afterparty-at-lizzy's.html" ><img src="afterparty at lizzy's.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="common/trust-no-one.html" ><img src="../../fotos/Trust No One.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="common/peace-offering.html" ><img src="../../fotos/Peace Offering.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="detonate.html" ><img src="../../fotos/Detonate.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="afterparty-at-lizzy's.html" ><img src="../../fotos/Afterparty At Lizzie’s.png" alt="card name" style="width: 100%; height: auto;"></a><br>
 
 
 
 
       </div>
       <div class="bar4">
-        <a href=”three-mouthes-one-disire” ><img src="three mouths one desire.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-        <a href=”over-the-edge.html” ><img src="over the edge.png" alt="card name" style="width: 100%; height: auto;"></a><br>
-        <a href=”chroom-reverie” ><img src="chroom reverie.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="three-mouths,-one-desire.html" ><img src="../../fotos/Three Mouths, One Desire.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="over-the-edge.html" ><img src="../../fotos/Over The Edge.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+        <a href="chrome-reverie.html" ><img src="../../fotos/Chrome Reverie.png" alt="card name" style="width: 100%; height: auto;"></a><br>
 
 
 
       </div>
       <div class="footer">
         <p1> In case of a problem occurring or incorrect information please contact the following <br> 
-<a href= “gabrielroets42@gmail.com”> Gabriel Roets </a> 
-or <a href= “Jordi.keizer.prive@gmail.com”> Jordi Keizer </a><br>
+<a href= "gabrielroets42@gmail.com"> Gabriel Roets </a> 
+or <a href= "Jordi.keizer.prive@gmail.com"> Jordi Keizer </a><br>
 <a Href=SoT.html> service of terms</a></p1>
       </div>
     </div>
