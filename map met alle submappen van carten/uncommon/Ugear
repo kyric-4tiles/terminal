@@ -9,7 +9,7 @@
   <body>
     <div grid class="container">
       <pre class="logo">
-            <a href="../../main_page" style="text-decoration: none"style="width: 100%;"><br>
+            <a href="../../main_page" style="text-decoration: none" style="width: 100%;"><br>
                                 _____                    _____                    _____                    _____                    _____                    _____                    _____  
      /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  _______
     /::\    \                /::\    \                /::\    \                /::\____\                /::\    \                /::\____\                /::\    \                /::\____\
@@ -49,7 +49,7 @@
   <ul>
     <a href="../common/Clegend"><li>legend</li></a>
     <a href="../common/Cunit"><li>unit</li></a>
-    <a href="../common/Cgear"><li>gear</li></a>
+    <a href="../common/Cgear.html"><li>gear</li></a>
     <a href="../common/Cprogram"><li>program</li></a>
   </ul>
   <h1>uncommon</h1>
@@ -82,42 +82,42 @@
   </ul>
     <h1>iconic</h1>
   <ul>
-    <a href="Ilegend.html"><li>legend</li></a>
-    <a href="Iunit.html"><li>unit</li></a>
-    <a href="Igear.html"><li>gear</li></a>
-    <a href="Iprogram.html"><li>program</li></a>
+    <a href="../iconic/ilegend"><li>legend</li></a>
+    <a href="../iconic/iunit"><li>unit</li></a>
+    <a href="../iconic/igear.html"><li>gear</li></a>
+    <a href="../iconic/iprogram"><li>program</li></a>
+  </ul>
   <h1>nova rare</h1>
   <ul>
-    <a href="../nova rare/NRlegend"><li>legend</li></a>
-    <a href="../nova rare/NRunit"><li>unit</li></a>
-    <a href="../nova rare/NRgear"><li>gear</li></a>
-    <a href="../nova rare/NRprogram"><li>program</li></a>
+    <a href="../nova%20rare/NRLegend"><li>legend</li></a>
+    <a href="../nova%20rare/NRunit"><li>unit</li></a>
+    <a href="../nova%20rare/NRgear.html"><li>gear</li></a>
+    <a href="../nova%20rare/NRprogram"><li>program</li></a>
   </ul>
 </div>
       <div class="bar1">
-<a href="zetatech-faceplate.html" ><img src="../../fotos/Zetatech Faceplate.png" alt="Zetatech Faceplate" style="width: 100%; height: auto;"></a><br>
-<a href="netwatch-netdriver.html" ><img src="../../fotos/Netwatch Netdriver.png" alt="Netwatch Netdriver" style="width: 100%; height: auto;"></a><br>
+<a href="../../fotos/Zetatech Faceplate.png"><img src="../../fotos/Zetatech Faceplate.png" alt="Zetatech Faceplate" style="width: 100%; height: auto;"></a><br>
+<a href="../../fotos/Netwatcher Netdriver.png"><img src="../../fotos/Netwatcher Netdriver.png" alt="Netwatcher Netdriver" style="width: 100%; height: auto;"></a><br>
 
       </div>
       <div class="bar2">
-<a href="satori-sword-of-sarubo.html" ><img src="../../fotos/Satori Sword of Sarubo.png" alt="Satori Sword of Sarubo" style="width: 100%; height: auto;"></a><br>
-<a href="to-card-page.html" ><img src="../../fotos/To Card Page.png" alt="To Card Page" style="width: 100%; height: auto;"></a><br>
+<a href="../../fotos/Satori - Sword of saburo.png"><img src="../../fotos/Satori - Sword of saburo.png" alt="Satori - Sword of saburo" style="width: 100%; height: auto;"></a><br>
 
 
       </div>
       <div class="bar3">
-<a href="sandevistan.html" ><img src="../../fotos/Sandevistan.png" alt="Sandevistan" style="width: 100%; height: auto;"></a><br>
+<a href="../../fotos/Sandevistan.png"><img src="../../fotos/Sandevistan.png" alt="Sandevistan" style="width: 100%; height: auto;"></a><br>
 
       </div>
       <div class="bar4">
-<a href="riot-shield.html" ><img src="../../fotos/Riot Shield.png" alt="Riot Shield" style="width: 100%; height: auto;"></a><br>
+<a href="../../fotos/Riot Shield.png"><img src="../../fotos/Riot Shield.png" alt="Riot Shield" style="width: 100%; height: auto;"></a><br>
 
       </div>
       <div class="footer">
         <p1> In case of a problem occurring or incorrect information please contact the following <br> 
-<a href= "gabrielroets42@gmail.com"> Gabriel Roets </a> 
-or <a href= "Jordi.keizer.prive@gmail.com"> Jordi Keizer </a><br>
-<a Href=SoT.html> service of terms</a></p1>
+<a href="mailto:gabrielroets42@gmail.com"> Gabriel Roets </a> 
+or <a href="mailto:Jordi.keizer.prive@gmail.com"> Jordi Keizer </a><br>
+<a href="../../SoT.html"> service of terms</a></p1>
       </div>
     </div>
   </body>
