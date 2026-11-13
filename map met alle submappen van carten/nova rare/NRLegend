@@ -80,6 +80,12 @@
     <a href="Sgear.html"><li>gear</li></a>
     <a href="Sprogram.html"><li>program</li></a>
   </ul>
+  <h1>iconic</h1>
+  <ul>
+    <a href="Ilegend.html"><li>legend</li></a>
+    <a href="Iunit.html"><li>unit</li></a>
+    <a href="Igear.html"><li>gear</li></a>
+    <a href="Iprogram.html"><li>program</li></a>
   <h1>nova rare</h1>
   <ul>
     <a href="NRlegend.html"><li>legend</li></a>
@@ -88,10 +94,31 @@
     <a href="NRprogram.html"><li>program</li></a>
   </ul>
 </div>
-      <div class="bar1"></div>
-      <div class="bar2"></div>
-      <div class="bar3"></div>
-      <div class="bar4"></div>
+      <div class="bar1">
+<a href=”Kerry-Eurodyne---The-Last-Rockerboy.html” ><img src="Kerry Eurodyne - The Last Rockerboy.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href=”Delamain-Cab.html” ><img src="Delamain Cab.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href=”Riding-Nomad.html” ><img src="Riding Nomad.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href=”Adam-Smasher---Metal-Over-Meat.html” ><img src="Adam Smasher - Metal Over Meat.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+
+      </div>
+      <div class="bar2">
+<a href=”Royce--Dont-Call-Me-Simon.html” ><img src="Royce - Dont Call Me Simon.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href=”Maman-Brigitte---Spirit-of-Death.html” ><img src="Maman Brigitte - Spirit of Death.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href=”Wraith-Marauders.html” ><img src="Wraith Marauders.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+
+      </div>
+      <div class="bar3">
+<a href=”Minotaur.html” ><img src="Minotaur.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href=”Corpo-Security.html” ><img src="Corpo Security.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href=”Secondhand-Bombus.html” ><img src="Secondhand Bombus.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+
+
+      </div>
+      <div class="bar4">
+<a href=”Misty-Olszewski---Mender-of-Broken-Spirits.html” ><img src="Misty Olszewski - Mender of Broken Spirits.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href=”Field-Operator.html” ><img src="Field Operator.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+<a href=”Jackie-Welles---Ride-or-Die-Choom.html” ><img src="Jackie Welles - Ride or Die Choom.png" alt="card name" style="width: 100%; height: auto;"></a><br>
+
       <div class="footer">
         <p1> In case of a problem occurring or incorrect information please contact the following <br> 
 <a href= “gabrielroets42@gmail.com”> Gabriel Roets </a> 

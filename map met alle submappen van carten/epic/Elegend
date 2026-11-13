@@ -73,6 +73,12 @@
     <a href="Egear.html"><li>gear</li></a>
     <a href="Eprogram.html"><li>program</li></a>
   </ul>
+    <h1>iconic</h1>
+  <ul>
+    <a href="Ilegend.html"><li>legend</li></a>
+    <a href="Iunit.html"><li>unit</li></a>
+    <a href="Igear.html"><li>gear</li></a>
+    <a href="Iprogram.html"><li>program</li></a>
   <h1>secret</h1>
   <ul>
     <a href="Slegend.html"><li>legend</li></a>
@@ -88,10 +94,27 @@
     <a href="NRprogram.html"><li>program</li></a>
   </ul>
 </div>
-      <div class="bar1"></div>
-      <div class="bar2"></div>
-      <div class="bar3"></div>
-      <div class="bar4"></div>
+      <div class="bar1">
+<a href="yorinobu-arasaka-embracing-destruction.html"><img src="../../fotos/Yorinobu Arasaka -  Embracing Destruction.png" alt="Yorinobu Arasaka - Embracing Destruction" style="width: 100%; height: auto;"></a><br>
+<a href="v-corporate-exile.html"><img src="../../fotos/V - Corporate exile.png" alt="V - Corporate exile" style="width: 100%; height: auto;"></a><br>
+<a href="viktor-vektor-sit-down-and-relax.html"><img src="../../fotos/Viktor Vektor - Sit down and relax.png" alt="Viktor Vektor - Sit down and relax" style="width: 100%; height: auto;"></a><br>
+
+      </div>
+      <div class="bar2">
+<a href="adam-smasher-ender-of-legends.html"><img src="../../fotos/Adam Smasher - Ender of legends.png" alt="Adam Smasher - Ender of legends" style="width: 100%; height: auto;"></a><br>
+<a href="panam-palmer-nomad-cavalry.html"><img src="../../fotos/Panam Palmer - Nomad cavalry.png" alt="Panam Palmer - Nomad cavalry" style="width: 100%; height: auto;"></a><br>
+
+      </div>
+      <div class="bar3">
+<a href="jackie-welles-pour-one-out-for-me.html"><img src="../../fotos/Jackie Welles - Pour one out for me.png" alt="Jackie Welles - Pour one out for me" style="width: 100%; height: auto;"></a><br>
+<a href="saburo-arasaka-stubborn-patriarch.html"><img src="../../fotos/Saburo Arasaka - Stubborn patriarch.png" alt="Saburo Arasaka - Stubborn patriarch" style="width: 100%; height: auto;"></a><br>
+
+      </div>
+      <div class="bar4">
+<a href="judy-alvarez-braindance-maestro.html"><img src="../../fotos/Judy Álvarez - Braindance maestro.png" alt="Judy Álvarez - Braindance maestro" style="width: 100%; height: auto;"></a><br>
+<a href="goro-takemura-hands-unclean.html"><img src="../../fotos/Goro Takemura - Hands unclean.png" alt="Goro Takemura - Hands unclean" style="width: 100%; height: auto;"></a><br>
+
+      </div>
       <div class="footer">
         <p1> In case of a problem occurring or incorrect information please contact the following <br> 
 <a href= “gabrielroets42@gmail.com”> Gabriel Roets </a> 

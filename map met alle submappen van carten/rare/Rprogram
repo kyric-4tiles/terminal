@@ -73,6 +73,7 @@
     <a href="Egear.html"><li>gear</li></a>
     <a href="Eprogram.html"><li>program</li></a>
   </ul>
+  
   <h1>secret</h1>
   <ul>
     <a href="Slegend.html"><li>legend</li></a>
@@ -80,6 +81,12 @@
     <a href="Sgear.html"><li>gear</li></a>
     <a href="Sprogram.html"><li>program</li></a>
   </ul>
+    <h1>iconic</h1>
+  <ul>
+    <a href="Ilegend.html"><li>legend</li></a>
+    <a href="Iunit.html"><li>unit</li></a>
+    <a href="Igear.html"><li>gear</li></a>
+    <a href="Iprogram.html"><li>program</li></a>
   <h1>nova rare</h1>
   <ul>
     <a href="NRlegend.html"><li>legend</li></a>
@@ -88,10 +95,23 @@
     <a href="NRprogram.html"><li>program</li></a>
   </ul>
 </div>
-      <div class="bar1"></div>
-      <div class="bar2"></div>
-      <div class="bar3"></div>
-      <div class="bar4"></div>
+      <div class="bar1">
+<a href="shattered-memories.html"><img src="../../fotos/Shattered Memories.png" alt="Shattered Memories" style="width: 100%; height: auto;"></a><br>
+<a href="dont-fear-the-reaper.html"><img src="../../fotos/(Don’t Fear) The Reaper.png" alt="(Don’t Fear) The Reaper" style="width: 100%; height: auto;"></a><br>
+
+      </div>
+      <div class="bar2">
+<a href="nocturne-op55-n1.html"><img src="../../fotos/Nocturne OP55 N1.png" alt="Nocturne OP55 N1" style="width: 100%; height: auto;"></a><br>
+
+      </div>
+      <div class="bar3">
+<a href="pyramid-song.html"><img src="../../fotos/Pyramid Song.png" alt="Pyramid Song" style="width: 100%; height: auto;"></a><br>
+
+      </div>
+      <div class="bar4">
+<a href="fool-on-the-hill.html"><img src="../../fotos/Fool On The Hill.png" alt="Fool On The Hill" style="width: 100%; height: auto;"></a><br>
+
+      </div>
       <div class="footer">
         <p1> In case of a problem occurring or incorrect information please contact the following <br> 
 <a href= “gabrielroets42@gmail.com”> Gabriel Roets </a> 

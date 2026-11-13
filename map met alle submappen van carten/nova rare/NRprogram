@@ -80,6 +80,12 @@
     <a href="Sgear.html"><li>gear</li></a>
     <a href="Sprogram.html"><li>program</li></a>
   </ul>
+    <h1>iconic</h1>
+  <ul>
+    <a href="Ilegend.html"><li>legend</li></a>
+    <a href="Iunit.html"><li>unit</li></a>
+    <a href="Igear.html"><li>gear</li></a>
+    <a href="Iprogram.html"><li>program</li></a>
   <h1>nova rare</h1>
   <ul>
     <a href="NRlegend.html"><li>legend</li></a>
@@ -88,10 +94,23 @@
     <a href="NRprogram.html"><li>program</li></a>
   </ul>
 </div>
-      <div class="bar1"></div>
-      <div class="bar2"></div>
-      <div class="bar3"></div>
-      <div class="bar4"></div>
+      <div class="bar1">
+        <a href=”Industrial-Assembly.html” ><img src="Industrial Assembly.png" alt="Industrial Assembly" style="width: 100%; height: auto;"></a><br>
+        <a href=”We-Gotta-Live-Together.html” ><img src="We Gotta Live Together.png" alt="We Gotta Live Together" style="width: 100%; height: auto;"></a><br>
+        <a href=”Bootleg-Black-Sapphire-Show.html” ><img src="Bootleg Black Sapphire Show.png" alt="Bootleg Black Sapphire Show" style="width: 100%; height: auto;"></a><br>
+      </div>
+      <div class="bar2">
+        <a href=”Floor-It.html” ><img src="Floor It.png" alt="Floor It" style="width: 100%; height: auto;"></a><br>
+        <a href=”(Dont Fear) The Reaper.html” ><img src="(Don't Fear) The Reaper.png" alt="(Don't Fear) The Reaper" style="width: 100%; height: auto;"></a><br>
+      </div>
+      <div class="bar3">
+        <a href=”Trust-No-One.html”><img src="Trust No One.png" alt="Trust No One" style="width: 100%; height: auto;"></a><br>
+        <a href=”Afterparty-at-Lizzies.html” ><img src="Afterparty at Lizzies.png" alt="Afterparty at Lizzies" style="width: 100%; height: auto;"></a><br>
+      </div>
+      <div class="bar4">
+        <a href="Peace-Offering.html" ><img src="Peace Offering.png" alt="Peace Offering" style="width: 100%; height: auto;"></a><br>
+        <a href=”Cyberpsychosis.html” ><img src="Cyberpsychosis.png" alt="Cyberpsychosis" style="width: 100%; height: auto;"></a><br>
+      </div>
       <div class="footer">
         <p1> In case of a problem occurring or incorrect information please contact the following <br> 
 <a href= “gabrielroets42@gmail.com”> Gabriel Roets </a> 

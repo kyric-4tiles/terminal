@@ -80,6 +80,12 @@
     <a href="Sgear.html"><li>gear</li></a>
     <a href="Sprogram.html"><li>program</li></a>
   </ul>
+    <h1>iconic</h1>
+  <ul>
+    <a href="Ilegend.html"><li>legend</li></a>
+    <a href="Iunit.html"><li>unit</li></a>
+    <a href="Igear.html"><li>gear</li></a>
+    <a href="Iprogram.html"><li>program</li></a>
   <h1>nova rare</h1>
   <ul>
     <a href="NRlegend.html"><li>legend</li></a>
@@ -88,7 +94,9 @@
     <a href="NRprogram.html"><li>program</li></a>
   </ul>
 </div>
-      <div class="bar1"></div>
+      <div class="bar1">
+        <a href="towerfall.html"><img src="../../fotos/Towerfall.png" alt="Towerfall" style="width: 100%; height: auto;"></a><br>
+      </div>
       <div class="bar2"></div>
       <div class="bar3"></div>
       <div class="bar4"></div>
